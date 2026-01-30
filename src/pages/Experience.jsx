@@ -35,7 +35,7 @@ const Experience = () => {
             period: 'June 2023 - August 2023',
             description: 'Assisting professors in measuring and visualizing data for the project "Research on Mobile Phone Waves in Faraday Environments"',
             achievements: [
-                'The project was completed and announced in October 2023.'
+                'The project was completed and published in October 2023.'
             ]
         },
     ];
