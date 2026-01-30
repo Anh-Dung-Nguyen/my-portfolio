@@ -38,11 +38,8 @@ If you want to run this project on your local machine:
 ```bash
 git clone git@github.com:Anh-Dung-Nguyen/my-portfolio.git
 
-```bash
 cd my-portfolio
 
-```bash
 npm install
 
-```bash
 npm run dev
