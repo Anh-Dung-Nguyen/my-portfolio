@@ -34,7 +34,6 @@ You can visit the live website here:
 
 If you want to run this project on your local machine:
 
-### 1️⃣ Clone the repository
 ```bash
 git clone git@github.com:Anh-Dung-Nguyen/my-portfolio.git
 
