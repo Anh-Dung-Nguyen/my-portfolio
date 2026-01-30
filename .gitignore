@@ -26,3 +26,4 @@ dist-ssr
 # Keys
 contratkey
 contratkey.pub
+.vercel
