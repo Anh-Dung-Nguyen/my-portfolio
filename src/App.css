@@ -73,6 +73,7 @@ html, body, #root {
   border-bottom: 1px solid rgba(0, 255, 136, 0.1);
   z-index: 1000;
   padding: 1rem 0;
+  touch-action: pan-x;
 }
 
 .nav-container {
@@ -82,6 +83,7 @@ html, body, #root {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  overflow-x: hidden;
 }
 
 .nav-logo {
@@ -103,6 +105,8 @@ html, body, #root {
   overflow-x: auto;
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
+  touch-action: pan-x;
+  flex-wrap: nowrap;
 }
 
 .nav-links a {
